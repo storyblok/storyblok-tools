@@ -1,0 +1,22 @@
+{
+  "name": "storyblok-tools",
+  "version": "1.0.0",
+  "description": "Helpful tools for Storyblok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/storyblok/storyblok-tools.git"
+  },
+  "keywords": [
+    "Storyblok"
+  ],
+  "author": "Alexander Feiglstorfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storyblok/storyblok-tools/issues"
+  },
+  "homepage": "https://github.com/storyblok/storyblok-tools#readme"
+}
