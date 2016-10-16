@@ -1,3 +1,9 @@
+# Installation
+
+```
+npm install storyblok-tools --save-dev
+```
+
 # Usage
 
 Require the storyblok-tools and add tasks in your gulpfile.
