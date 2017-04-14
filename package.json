@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/storyblok/storyblok-tools/issues"
   },
+  "dependencies": {
+    "unirest": "^0.5.1"
+  },
   "homepage": "https://github.com/storyblok/storyblok-tools#readme"
 }
